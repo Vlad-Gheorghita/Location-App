@@ -3,4 +3,5 @@ A Backend application to manage the register and login for users in order to loc
 
 ## Below you will find some diagrams to look to
 Class diagram:
-![alt text](https://github.com/Vlad-Gheorghita/Photos/blob/master/SCD-Class Diagram.png)
+<br>
+![alt text](https://github.com/Vlad-Gheorghita/Photos/blob/master/SCD-Class_Diagram.png)
