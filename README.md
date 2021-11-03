@@ -1,5 +1,5 @@
 # Location-App
-A Backend application to manage the register and login for users in order to locate their position on the map. It was developed with Java and Spring Boot.
+A Backend application to manage the register and login for users in order to locate their position on the map. It was developed with Java, Spring Boot, and MySQL database.
 
 ## Below you will find some diagrams to understand better what the application does
 Class diagram:
